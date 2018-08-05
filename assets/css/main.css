@@ -2634,6 +2634,13 @@ input, select, textarea {
 
 	.profile-pic{
 		border-radius: 100px;
+		width: 200px;
+		height: 200px;
+	}
+
+	.profile-pic-placement{
+		display: flex;
+		justify-content: center;
 	}
 
 	.header-background{
